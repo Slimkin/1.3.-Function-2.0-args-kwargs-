@@ -30,3 +30,7 @@ if __name__ == "__main__":
     jhon = Contact('Jhon', 'Smith', '+71234567809', telegram='@jhony', email='jhony@smith.com')
 
     print(jhon)
+
+    zilly = Contact('duck', 'zilla', '46480', favorites=True)
+
+    print(zilly)
